@@ -12,4 +12,6 @@ A estrutura fornecida neste repositório, sugere que se leve em conta o tempo de
 # Resultados
 Nosso último teste realizado em 11/10/2013 apresenta o seguinte resultado:
 
+<img src="" />
+
 Em breve novas comparações serão adicionadas.
